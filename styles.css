@@ -1,0 +1,189 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+
+.container {
+    width: 1280px;
+}
+
+.photo {
+    background-image: url(/images/livello-1.png);
+    background-size: cover;
+    margin: 0 auto;
+    height: 745px;
+    width: 1280px;
+    position: absolute;
+
+
+}
+
+.home {
+    /* Style for "Home" */
+    width: 56px;
+    height: 13px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    /* Text style for "H, ome" */
+    letter-spacing: 2.4px;
+
+    margin-left: 273px;
+    position: relative;
+    margin-top: 75px;
+
+}
+
+.photoapp {
+    /* Style for "photoapp" */
+    width: 109px;
+    height: 13px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    /* Text style for "photoapp" */
+    letter-spacing: 2.4px;
+    margin-top: -11px;
+    margin-left: 396px;
+    position: relative;
+}
+
+.livello2 {
+    /* Style for "Livello 2" */
+    width: 53px;
+    height: 55px;
+    background-image: url(images/livello-2.png);
+    position: relative;
+    margin-left: 607px;
+    margin-top: -40px;
+
+}
+
+.design {
+    /* Style for "design" */
+    width: 75px;
+    height: 13px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 758px;
+    margin-top: -25px;
+    text-transform: uppercase;
+    /* Text style for "design" */
+    letter-spacing: 2.4px;
+    position: relative;
+
+}
+
+.download {
+    /* Style for "download" */
+    width: 119px;
+    height: 13px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    /* Text style for "d, ownload" */
+    letter-spacing: 2.4px;
+    margin-left: 912px;
+    margin-top: -10px;
+    position: relative;
+}
+
+.yourlife {
+    /* Style for "your life" */
+    width: 499px;
+    height: 32px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    /* Text style for "your life" */
+    letter-spacing: 5.4px;
+    position: relative;
+    margin-left: 391px;
+    margin-top: 200px;
+}
+
+.printyour {
+    /* Style for "print your" */
+    width: 328px;
+    height: 15px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    position: relative;
+    /* Text style for "p, rint yo" */
+    letter-spacing: 2.4px;
+    margin-left: 480px;
+    margin-top: 37px;
+
+}
+
+.getstarted {
+    /* Style for "Rettangolo" */
+    width: 166px;
+    height: 49px;
+    border-radius: 3px;
+    background-color: #16a085;
+    margin-left: 555px;
+    margin-top: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 4;
+    letter-spacing: 1.8px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.twitter {
+    /* Style for "fa-twitter" */
+    width: 23px;
+    height: 20px;
+    background-image: url(images/fa-twitter.png);
+    margin-left: 589px;
+    margin-top: 240px;
+}
+
+.flickr {
+    /* Style for "fa-flickr" */
+    width: 23px;
+    height: 20px;
+    background-image: url(images/fa-flickr.png);
+    margin-left: 629px;
+    margin-top: -20px;
+}
+
+.dribble {
+    /* Style for "fa-dribbbl" */
+    width: 20px;
+    height: 21px;
+    background-image: url(images/fa-dribbble.png);
+    margin-left: 668px;
+    margin-top: -20px;
+}
+
+.rect3 {
+    height: 494px;
+    background-color: #f5f6f7;
+    width: 1280px;
+    margin-left: 0px;
+    position: absolute;
+    margin-top: 747px
+}
