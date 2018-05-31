@@ -11,7 +11,8 @@ body {
 }
 
 .photo {
-    background-image: url(/images/livello-1.png);
+    background-image: url(images/livello-1.png);
+    background-position: center;
     background-size: cover;
     margin: 0 auto;
     height: 745px;
@@ -166,6 +167,7 @@ body {
     width: 23px;
     height: 20px;
     background-image: url(images/fa-flickr.png);
+
     margin-left: 629px;
     margin-top: -20px;
 }
@@ -186,4 +188,191 @@ body {
     margin-left: 0px;
     position: absolute;
     margin-top: 747px
+}
+
+.text {
+    /* Style for "Rappresent" */
+    width: 376px;
+    height: 35px;
+    color: #16a085;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "Rappresent" */
+    letter-spacing: 2.7px;
+    position: relative;
+    margin-top: 113px;
+    margin-left: 129px;
+}
+
+.textTwo {
+    /* Style for "Lorem ipsu" */
+    width: 428px;
+    height: 107px;
+    color: #373737;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+
+    position: relative;
+    font-weight: 300;
+    letter-spacing: 1.8px;
+    margin-top: 63px;
+    margin-left: 129px;
+}
+
+.rectangle2 {
+    /* Style for "Rettangolo" */
+    width: 192px;
+    height: 51px;
+    border-radius: 3px;
+    background-color: #16a085;
+    position: relative;
+    margin-left: 128px;
+    margin-top: 50px;
+}
+
+.getstarted2 {
+    /* Style for "get starte" */
+    width: 104px;
+    height: 10px;
+    color: #ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+    /* Text style for "get starte" */
+    letter-spacing: 1.8px;
+    position: relative;
+    margin-left: 170px;
+    margin-top: -35px;
+}
+
+.hand {
+    /* Style for "Hand" */
+    width: 637px;
+    height: 661px;
+    box-shadow: inset 0 0 114px rgba(255, 255, 255, 0.2);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+    background-image: url(images/hand.png);
+    position: relative;
+    margin-left: 540px;
+    margin-top: -264px;
+    overflow: hidden;
+
+}
+
+.rect4 {
+    /* Style for "Rettangolo" */
+    width: 1280px;
+    height: 558px;
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: 1236px;
+    margin-left: -15px;
+
+}
+
+.phone2 {
+
+    background-image: url(images/shape.png);
+    /* Style for "Flat iPhon" */
+    width: 312px;
+    height: 700px;
+    margin-top: 157px;
+    margin-left: 120px;
+    overflow: hidden;
+
+
+
+}
+
+.words {
+    /* Style for "DESIGN" */
+    width: 83px;
+    height: 14px;
+    color: #16a085;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "DESIGN" */
+    letter-spacing: 2.8px;
+
+    margin-left: 767px;
+    margin-top: -710px;
+}
+
+.text4 {
+    /* Style for "Lorem ipsu" */
+    width: 459px;
+    height: 99px;
+    color: #373737;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 12px;
+
+    line-height: 22px;
+    /* Text style for "L, orem ip" */
+    font-weight: 300;
+    letter-spacing: 2.1px;
+
+
+    position: relative;
+    margin-top: 70px;
+    margin-left: 769px;
+
+}
+
+.rect5 {
+    /* Style for "Rettangolo" */
+    width: 192px;
+    height: 51px;
+    background-color: #16a085;
+    position: relative;
+    margin-left: 766px;
+    margin-top: 60px;
+}
+
+.numbers {
+    width: 43px;
+    height: 12px;
+    color: #373737;
+
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    /* Text style for "01/05" */
+    letter-spacing: 1.8px;
+    position: relative;
+    margin-left: 767px;
+    margin-top: 40px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+
+.rectangle6 {
+    /* Style for "Rettangolo" */
+    width: 1280px;
+    height: 483px;
+    background-color: #f5f6f7;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 1794px;
+}
+
+.iphone {
+    /* Style for "iPhone 5S" */
+    width: 355px;
+    height: 424px;
+    position: relative;
+    margin-top: -700px;
+    margin-left: 827px;
+    background-image: url(images/iphone.png);
+
+
 }
